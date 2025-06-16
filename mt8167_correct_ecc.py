@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 
-# For updates please check https://github.com/gilderchuck/mt8167_correct_ecc
+# For updates please check https://github.com/gilderchuck/mtk-nand-utils
+# SPDX-License-Identifier: GPL-2.0-only
+# Copyright (C) 2025 Gilderchuck
 
 import sys
 import argparse
